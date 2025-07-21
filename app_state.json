@@ -1,0 +1,11 @@
+{
+  "input_files": [
+    "/home/zero/Projects/md2html-gui/test_gui.md"
+  ],
+  "output_files": [
+    "/home/zero/Projects/md2html-gui/test_gui.html"
+  ],
+  "css_path": "/home/zero/Projects/md2html-gui/test_gui.css",
+  "title": "",
+  "preview": true
+}
