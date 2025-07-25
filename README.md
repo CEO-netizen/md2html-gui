@@ -19,10 +19,4 @@ Run the application and use the GUI to add Markdown files, specify output HTML f
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Donation Address
-
-Support development with Ethereum or Ethereum-based tokens:
-
-[![Ethereum](https://img.shields.io/badge/ETH-0x2800aBdF...-627eea?style=flat-square&logo=ethereum&logoColor=white)](https://etherscan.io/address/0x2800aBdF356809F4EbE2c9158630CcF975E1Ee67)
+This project is licensed under the GPLv3 License. See the LICENSE file for details.
